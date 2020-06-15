@@ -38,7 +38,7 @@
  */
 
 function calc(x1, x2, operator) { // Conhecido como argumentos ou parametros, são informações que as funções precisam.
-    // Se definir parametros, ideal é respeita.
+    // Se definir parametros, ideal é respeitar.
     // Argumentos ou Args permitem acessar Parâmetro de uma função.
 
     return eval(`${x1} ${operator} ${x2}`);
